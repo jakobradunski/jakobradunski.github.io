@@ -1,0 +1,3 @@
+[submodule "projects/Random"]
+	path = projects/Random
+	url = https://github.com/jakobradunski/Random-Color-Generator-Website.git
